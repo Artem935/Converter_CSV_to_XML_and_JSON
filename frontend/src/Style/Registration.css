@@ -1,0 +1,117 @@
+.Registration
+{
+    font-family: 'Helvetica';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("../img/register_bgc.png") no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    a{
+        all: unset;
+        cursor: pointer; /* Устанавливаем курсор указателя, так как его значение по умолчанию также отключается */
+        color: inherit; /* Наследовать цвет текста от родительского элемента */
+        text-decoration: none;
+    }
+
+
+    .center-block{
+        width: 700px;
+        height: 600px;
+
+        background: rgba(0, 0, 0, 0.75); /* Полупрозрачный белый фон */
+        backdrop-filter: blur(5px); /* Эффект размытия */;
+        border-top: 3px solid rgb(97, 97, 97);
+        border-right:3px solid  rgb(95, 95, 95);
+        border-bottom:3px solid  rgb(70, 70, 70);
+        border-left:3px solid  rgb(71, 71, 71);
+        border-radius: 10px;
+        text-align: center;
+        justify-content: center;
+    }
+    input::placeholder {
+        color: rgb(128, 128, 128);
+        transition: color 0.5s ease;
+    }
+    input:hover::placeholder {
+        color: rgb(205, 204, 204);
+    }
+    .login,
+    .password,
+    .email{
+        width: 400px;
+        height: 45px;
+        background-color: transparent;
+        border: none; 
+        border-bottom: 2px solid rgb(86, 86, 86); 
+        color: rgb(142, 142, 142);
+        font-size: 21px;
+        position: relative;
+        outline: none;
+        transition: 0.5s ease-in-out;
+      }
+    .login{
+        margin-top: 60px;
+    }
+    .email{
+        margin-top: 50px
+    }
+    .password{
+        margin-top: 50px;
+    }
+    .login.Error,
+    .email.Error,
+    .password.Error{
+        border-bottom: 1px solid rgb(255, 6, 6);
+    }
+    .login:focus,
+    .email:focus,
+    .password:focus {
+        border-bottom: 1px solid rgb(0, 0, 0);
+        box-shadow: 0 1px 0 0 #ffe53d;
+        color: rgb(255, 255, 255);
+    }
+
+
+    .login:hover,
+    .email:hover,
+    .password:hover {
+        color: rgb(255, 255, 255);
+    }
+
+    
+    .button-login{
+        width: 400px;
+        height: 45px;
+        margin-top:40px;
+        font-size: 20px;
+        color: rgb(142, 142, 142);
+        background-color: transparent;
+        border-radius: 10px;
+        border: 2px solid rgb(86, 86, 86);
+        transition: 0.5s ease-in-out;
+    }
+    .button-login:hover{
+        border-color: #ffffff;
+        color:  rgb(209, 209, 209);
+        border-radius: 20px;
+    }
+    .link,
+    .link-registration{
+        font-size: 20px;
+        color: #b5b5b5;  
+        transition: 0.5s ease-in-out;
+    }
+    .link-registration{
+        text-shadow: 
+        0 0 20px rgba(255, 255, 255, 0.2),  /* Первичный свет */
+        0 0 20px rgba(255, 255, 255, 0.25), 
+        0 0 10px rgba(255, 255, 255, 0.25),  /* Неоновый свет */
+        0 0 200px rgba(255, 255, 255, 1); /* Более рассеянный свет */
+    }
+    .link-registration:hover{
+        color: #e2e2e2;  
+    }
+}

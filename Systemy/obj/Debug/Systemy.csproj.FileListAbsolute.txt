@@ -1,0 +1,17 @@
+C:\Users\Artem\Desktop\Systemy\Systemy\bin\Debug\Systemy.exe.config
+C:\Users\Artem\Desktop\Systemy\Systemy\bin\Debug\Systemy.exe
+C:\Users\Artem\Desktop\Systemy\Systemy\bin\Debug\Systemy.pdb
+C:\Users\Artem\Desktop\Systemy\Systemy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\Systemy\Systemy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy_MarkupCompile.cache
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.g.resources
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.Properties.Resources.resources
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.exe
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.pdb
+C:\Users\Artem\Desktop\Systemy\Systemy\obj\Debug\Systemy.csproj.Up2Date
