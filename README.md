@@ -19,11 +19,14 @@ This project is a WPF application in C# that accepts a CSV file and converts it 
 
 ## Installation
 
-1. Open the project in Visual Studio.
-
+1. Open the project in Visual Studio(Click to System.sln in main directiry).
 2. Install the necessary NuGet packages:
 
     - Newtonsoft.Json
+    - 
+## Run application
+1. Open main directory
+2. 
 
 ## Usage
 
