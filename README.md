@@ -13,7 +13,7 @@ This project is a WPF application in C# that accepts a CSV file and converts it 
 - Allows downloading the converted JSON and XML files.
 
 ## Requirements
-
+- Visual Studio 2022
 - .NET Framework 4.7.2 or higher
 - Newtonsoft.Json library
 
@@ -21,12 +21,11 @@ This project is a WPF application in C# that accepts a CSV file and converts it 
 
 1. Open the project in Visual Studio(Click to System.sln in main directiry).
 2. Install the necessary NuGet packages:
-
     - Newtonsoft.Json
-    - 
-## Run application
+      
+## Run application without Visual Studio
 1. Open main directory
-2. 
+2. Then open "Systemy" => "bin" => "Debug" => "System.exe"
 
 ## Usage
 
